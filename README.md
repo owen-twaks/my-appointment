@@ -1,4 +1,4 @@
-# Modern Appointment Picker
+# Modern Appointment
 
 Modern Appointment Picker is exactly as it describes - a series of modular buttons that allow you to effortlessly book appointments in an intuitive way.
 
